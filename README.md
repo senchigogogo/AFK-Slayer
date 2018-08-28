@@ -1,4 +1,4 @@
-# [RS Slayer Calculator](http://jovaunjackson.me/AFK-Slayer/)
+# [RS Slayer Calculator](http://jovaunjackson.me/AFK-Slayer/) --- WIP
 
 * <img width="25" height="25" src="http://jovaunjackson.me/AFK-Slayer/images/Completed_daily_challenge_icon.png"> Daily Challenge
   * <img width="25" height="25" src="http://jovaunjackson.me/AFK-Slayer/images/Vis_wax.png"> Extend Challenge
