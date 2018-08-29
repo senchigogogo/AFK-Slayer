@@ -57,3 +57,7 @@ body {
 .fRight {
     float: right;
 }
+
+.clicked {
+    background-color: darkred;
+}
